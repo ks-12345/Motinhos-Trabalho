@@ -121,32 +121,6 @@ $moto5->Mover();
 echo "⛽ ";
 $moto5->Combustivel();
 echo "\n\n-----------------------------------------------------------------\n\n";
-echo "🏁🚦🚨🚧🚀🚲🚗🚙🚚🚐🚜🚘🚖🚔🚍🚦🏁\n";
+echo "🏁🚦🚨🚧🚀🚲🚗🚙🚚🚐🚜🚘🚖🚔🚍🚦🏁\n"
 
-
-// $moto1->Mover();
-// echo PHP_EOL;
-// $moto1->Combustivel();
-// echo PHP_EOL;
-
-// $moto2->Mover();
-// echo PHP_EOL;
-// $moto2->Combustivel();
-// echo PHP_EOL;
-
-// $moto3->Mover();
-// echo PHP_EOL;
-// $moto3->Combustivel();
-// echo PHP_EOL;
-
-// $moto4->Mover();
-// echo PHP_EOL;
-// $moto4->Combustivel();
-// echo PHP_EOL;
-
-// $moto5->Mover();
-// echo PHP_EOL;
-// $moto5->Combustivel();
-// echo PHP_EOL;
 ?>
-    
